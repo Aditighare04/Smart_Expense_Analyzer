@@ -1,0 +1,929 @@
+Date,Description,Amount,Type,Category
+2024-09-01,Rapido,-311.67,Debit,Travel
+2024-09-01,Spotify,-305.44,Debit,Entertainment
+2024-09-01,Salary Credit,27232.54,Credit,Income
+2024-09-01,Broadband Bill,-532.69,Debit,Bills
+2024-09-02,Uber,-837.0,Debit,Travel
+2024-09-02,Freelance Payment,24973.24,Credit,Income
+2024-09-02,Freelance Payment,23616.75,Credit,Income
+2024-09-02,Salary Credit,40507.39,Credit,Income
+2024-09-02,Ola,-1013.06,Debit,Travel
+2024-09-02,Swiggy,-668.3,Debit,Food
+2024-09-02,Freelance Payment,39875.67,Credit,Income
+2024-09-03,House Rent,-10192.34,Debit,Rent
+2024-09-03,Indigo Airlines,-2944.65,Debit,Travel
+2024-09-03,Swiggy,-915.88,Debit,Food
+2024-09-03,Ajio,-3207.63,Debit,Shopping
+2024-09-04,Hotstar,-346.17,Debit,Entertainment
+2024-09-04,ATM Withdrawal,-1101.79,Debit,Other
+2024-09-05,BigBasket,-1033.81,Debit,Food
+2024-09-05,Ajio,-685.39,Debit,Shopping
+2024-09-06,Flipkart,-1322.38,Debit,Shopping
+2024-09-06,Miscellaneous,-1910.16,Debit,Other
+2024-09-06,Starbucks,-162.01,Debit,Food
+2024-09-07,Miscellaneous,-285.02,Debit,Other
+2024-09-07,Jio Recharge,-2456.59,Debit,Bills
+2024-09-07,BigBasket,-422.46,Debit,Food
+2024-09-07,Dominos,-927.99,Debit,Food
+2024-09-08,Miscellaneous,-1740.64,Debit,Other
+2024-09-08,Bookstore,-1044.85,Debit,Education
+2024-09-08,Ola,-645.47,Debit,Travel
+2024-09-08,Ola,-340.27,Debit,Travel
+2024-09-08,Dominos,-252.71,Debit,Food
+2024-09-09,Udemy,-357.85,Debit,Education
+2024-09-09,Zomato,-958.69,Debit,Food
+2024-09-10,Gift,-832.91,Debit,Other
+2024-09-10,Reliance Digital,-2571.48,Debit,Shopping
+2024-09-10,Gift,-507.61,Debit,Other
+2024-09-11,Apollo Pharmacy,-4114.6,Debit,Health
+2024-09-11,Hotstar,-243.54,Debit,Entertainment
+2024-09-11,Gift,-1892.23,Debit,Other
+2024-09-11,Gym Membership,-1826.63,Debit,Health
+2024-09-12,Gift,-1066.54,Debit,Other
+2024-09-12,Ajio,-3958.6,Debit,Shopping
+2024-09-12,Gym Membership,-3665.41,Debit,Health
+2024-09-12,Dominos,-399.36,Debit,Food
+2024-09-12,Amazon,-4984.3,Debit,Shopping
+2024-09-12,Spotify,-368.33,Debit,Entertainment
+2024-09-13,Swiggy,-439.72,Debit,Food
+2024-09-13,IRCTC,-1372.54,Debit,Travel
+2024-09-13,BookMyShow,-358.24,Debit,Entertainment
+2024-09-13,Ola,-2439.83,Debit,Travel
+2024-09-13,Rapido,-198.17,Debit,Travel
+2024-09-14,Dominos,-555.54,Debit,Food
+2024-09-14,Flipkart,-4560.58,Debit,Shopping
+2024-09-14,Zomato,-1143.77,Debit,Food
+2024-09-15,Hotstar,-585.3,Debit,Entertainment
+2024-09-15,Gift,-411.64,Debit,Other
+2024-09-16,Dominos,-674.83,Debit,Food
+2024-09-16,Reliance Digital,-2670.05,Debit,Shopping
+2024-09-17,ATM Withdrawal,-1912.9,Debit,Other
+2024-09-17,Broadband Bill,-2007.32,Debit,Bills
+2024-09-17,Ajio,-4902.35,Debit,Shopping
+2024-09-17,Dominos,-1179.3,Debit,Food
+2024-09-17,Dominos,-544.72,Debit,Food
+2024-09-17,Ola,-1468.47,Debit,Travel
+2024-09-19,Uber,-1200.12,Debit,Travel
+2024-09-19,Gym Membership,-1593.11,Debit,Health
+2024-09-20,Swiggy,-1153.88,Debit,Food
+2024-09-20,Broadband Bill,-707.69,Debit,Bills
+2024-09-20,Swiggy,-790.68,Debit,Food
+2024-09-20,McDonalds,-443.0,Debit,Food
+2024-09-21,Spotify,-238.65,Debit,Entertainment
+2024-09-21,Gym Membership,-2677.99,Debit,Health
+2024-09-21,Airtel Postpaid,-1486.45,Debit,Bills
+2024-09-21,Uber,-1282.39,Debit,Travel
+2024-09-21,BigBasket,-845.13,Debit,Food
+2024-09-22,Hotstar,-302.32,Debit,Entertainment
+2024-09-22,1mg,-2906.3,Debit,Health
+2024-09-22,Myntra,-5400.45,Debit,Shopping
+2024-09-22,McDonalds,-301.74,Debit,Food
+2024-09-23,Myntra,-3857.38,Debit,Shopping
+2024-09-23,Miscellaneous,-493.33,Debit,Other
+2024-09-24,Hotstar,-305.21,Debit,Entertainment
+2024-09-24,Apollo Pharmacy,-1036.62,Debit,Health
+2024-09-25,Spotify,-146.79,Debit,Entertainment
+2024-09-25,BigBasket,-1012.27,Debit,Food
+2024-09-26,Gym Membership,-832.89,Debit,Health
+2024-09-26,Gift,-1093.32,Debit,Other
+2024-09-26,Interest Credit,31318.58,Credit,Income
+2024-09-27,BigBasket,-353.06,Debit,Food
+2024-09-28,Bookstore,-1178.5,Debit,Education
+2024-09-28,BigBasket,-359.73,Debit,Food
+2024-09-28,Swiggy,-530.19,Debit,Food
+2024-09-28,IRCTC,-2001.04,Debit,Travel
+2024-09-28,Spotify,-172.47,Debit,Entertainment
+2024-09-29,Amazon,-2717.54,Debit,Shopping
+2024-09-29,Myntra,-1855.87,Debit,Shopping
+2024-09-29,McDonalds,-948.08,Debit,Food
+2024-09-29,Starbucks,-521.97,Debit,Food
+2024-09-30,1mg,-3748.2,Debit,Health
+2024-10-01,Salary Credit,46155.31,Credit,Income
+2024-10-01,McDonalds,-715.66,Debit,Food
+2024-10-02,Gift,-1583.24,Debit,Other
+2024-10-02,Salary Credit,38595.28,Credit,Income
+2024-10-03,Miscellaneous,-1168.07,Debit,Other
+2024-10-03,House Rent,-9760.07,Debit,Rent
+2024-10-04,Starbucks,-562.13,Debit,Food
+2024-10-04,Broadband Bill,-777.73,Debit,Bills
+2024-10-05,Ajio,-3122.51,Debit,Shopping
+2024-10-06,Rapido,-1708.78,Debit,Travel
+2024-10-07,Petrol Pump,-2514.67,Debit,Travel
+2024-10-07,Rapido,-869.58,Debit,Travel
+2024-10-07,Miscellaneous,-1799.57,Debit,Other
+2024-10-07,Petrol Pump,-2234.4,Debit,Travel
+2024-10-07,Jio Recharge,-2029.14,Debit,Bills
+2024-10-08,IRCTC,-203.11,Debit,Travel
+2024-10-08,Airtel Postpaid,-1909.74,Debit,Bills
+2024-10-09,Ajio,-5648.34,Debit,Shopping
+2024-10-09,Practo,-4545.82,Debit,Health
+2024-10-09,Myntra,-5505.74,Debit,Shopping
+2024-10-09,Broadband Bill,-2811.25,Debit,Bills
+2024-10-09,Gift,-930.2,Debit,Other
+2024-10-09,Petrol Pump,-587.74,Debit,Travel
+2024-10-09,BookMyShow,-595.95,Debit,Entertainment
+2024-10-10,IRCTC,-1887.75,Debit,Travel
+2024-10-11,Ajio,-1465.43,Debit,Shopping
+2024-10-11,House Rent,-12430.25,Debit,Rent
+2024-10-11,BigBasket,-175.17,Debit,Food
+2024-10-12,BigBasket,-686.33,Debit,Food
+2024-10-12,Ajio,-5604.39,Debit,Shopping
+2024-10-12,Zomato,-682.63,Debit,Food
+2024-10-12,Broadband Bill,-1085.35,Debit,Bills
+2024-10-12,Reliance Digital,-3387.72,Debit,Shopping
+2024-10-13,Amazon,-4013.46,Debit,Shopping
+2024-10-13,Amazon (Large),-36108.24,Debit,Shopping
+2024-10-13,Ajio,-2490.82,Debit,Shopping
+2024-10-14,Jio Recharge,-2594.58,Debit,Bills
+2024-10-14,Amazon,-4727.25,Debit,Shopping
+2024-10-15,Udemy,-1377.23,Debit,Education
+2024-10-16,Petrol Pump,-2849.76,Debit,Travel
+2024-10-16,Apollo Pharmacy,-1323.92,Debit,Health
+2024-10-17,Starbucks,-313.82,Debit,Food
+2024-10-17,Dominos,-864.95,Debit,Food
+2024-10-17,Airtel Postpaid,-1074.58,Debit,Bills
+2024-10-17,Netflix,-760.79,Debit,Entertainment
+2024-10-17,Myntra,-4161.98,Debit,Shopping
+2024-10-19,IRCTC,-2017.26,Debit,Travel
+2024-10-19,Salary Credit,49279.73,Credit,Income
+2024-10-19,Ola,-88.63,Debit,Travel
+2024-10-19,Ajio,-3349.9,Debit,Shopping
+2024-10-19,Gift,-369.57,Debit,Other
+2024-10-20,Netflix,-786.82,Debit,Entertainment
+2024-10-20,Electricity Board,-2385.47,Debit,Bills
+2024-10-20,Dominos,-491.44,Debit,Food
+2024-10-20,Myntra,-5973.99,Debit,Shopping
+2024-10-21,Jio Recharge,-964.6,Debit,Bills
+2024-10-21,Rapido,-2937.73,Debit,Travel
+2024-10-22,Amazon,-2601.87,Debit,Shopping
+2024-10-22,Rapido,-2046.47,Debit,Travel
+2024-10-22,Myntra,-878.1,Debit,Shopping
+2024-10-22,Freelance Payment,25011.02,Credit,Income
+2024-10-23,Zomato,-366.12,Debit,Food
+2024-10-23,Uber,-1683.42,Debit,Travel
+2024-10-24,Flipkart,-3639.43,Debit,Shopping
+2024-10-24,House Rent,-10231.11,Debit,Rent
+2024-10-25,House Rent,-10328.59,Debit,Rent
+2024-10-25,Reliance Digital,-2248.28,Debit,Shopping
+2024-10-26,Starbucks,-810.31,Debit,Food
+2024-10-26,Reliance Digital,-5467.13,Debit,Shopping
+2024-10-26,Swiggy,-856.56,Debit,Food
+2024-10-28,Airtel Postpaid,-2549.01,Debit,Bills
+2024-10-28,BigBasket,-509.02,Debit,Food
+2024-10-28,Spotify,-260.81,Debit,Entertainment
+2024-10-29,Jio Recharge,-1223.91,Debit,Bills
+2024-10-29,McDonalds,-971.85,Debit,Food
+2024-10-29,Swiggy,-420.35,Debit,Food
+2024-10-29,Uber,-385.82,Debit,Travel
+2024-10-29,Amazon,-3296.81,Debit,Shopping
+2024-10-30,Netflix,-581.38,Debit,Entertainment
+2024-10-30,Flipkart,-2248.67,Debit,Shopping
+2024-10-31,Interest Credit,40026.73,Credit,Income
+2024-10-31,Airtel Postpaid,-2945.45,Debit,Bills
+2024-10-31,Amazon,-5716.78,Debit,Shopping
+2024-10-31,Ajio,-5970.97,Debit,Shopping
+2024-11-01,IRCTC,-2286.8,Debit,Travel
+2024-11-01,Miscellaneous,-383.23,Debit,Other
+2024-11-02,Netflix,-699.43,Debit,Entertainment
+2024-11-02,Swiggy,-498.63,Debit,Food
+2024-11-02,Salary Credit,41913.62,Credit,Income
+2024-11-02,Tuition Fees,-1385.91,Debit,Education
+2024-11-03,House Rent,-9874.49,Debit,Rent
+2024-11-03,IRCTC,-2848.32,Debit,Travel
+2024-11-04,BigBasket,-115.75,Debit,Food
+2024-11-04,Ola,-2058.88,Debit,Travel
+2024-11-05,Practo,-3137.53,Debit,Health
+2024-11-05,Reliance Digital,-3835.76,Debit,Shopping
+2024-11-05,Electricity Board,-651.42,Debit,Bills
+2024-11-06,Netflix,-780.39,Debit,Entertainment
+2024-11-06,IRCTC,-1323.01,Debit,Travel
+2024-11-07,Netflix,-222.32,Debit,Entertainment
+2024-11-07,Indigo Airlines,-1657.3,Debit,Travel
+2024-11-07,Petrol Pump,-1801.1,Debit,Travel
+2024-11-07,Freelance Payment,23266.8,Credit,Income
+2024-11-07,McDonalds,-1000.58,Debit,Food
+2024-11-08,Miscellaneous,-1549.39,Debit,Other
+2024-11-08,Amazon,-2754.08,Debit,Shopping
+2024-11-08,Electricity Board,-433.2,Debit,Bills
+2024-11-08,Miscellaneous,-1712.82,Debit,Other
+2024-11-08,Practo,-4900.82,Debit,Health
+2024-11-08,Petrol Pump,-2226.8,Debit,Travel
+2024-11-09,IRCTC,-2533.81,Debit,Travel
+2024-11-09,Rapido,-151.66,Debit,Travel
+2024-11-11,Airtel Postpaid,-1852.74,Debit,Bills
+2024-11-11,Reliance Digital,-1345.58,Debit,Shopping
+2024-11-12,Uber,-867.93,Debit,Travel
+2024-11-12,Amazon,-1556.76,Debit,Shopping
+2024-11-12,Zomato,-859.43,Debit,Food
+2024-11-12,Starbucks,-1083.61,Debit,Food
+2024-11-12,Spotify,-382.13,Debit,Entertainment
+2024-11-13,Flipkart,-1938.53,Debit,Shopping
+2024-11-13,Dominos,-937.13,Debit,Food
+2024-11-13,Salary Credit,34427.18,Credit,Income
+2024-11-14,Amazon,-3959.58,Debit,Shopping
+2024-11-14,Flipkart,-3101.08,Debit,Shopping
+2024-11-15,ATM Withdrawal,-1404.18,Debit,Other
+2024-11-15,Electricity Board,-527.79,Debit,Bills
+2024-11-16,Reliance Digital,-4759.6,Debit,Shopping
+2024-11-16,Airtel Postpaid,-1181.76,Debit,Bills
+2024-11-17,Starbucks,-359.26,Debit,Food
+2024-11-21,Ola,-1294.2,Debit,Travel
+2024-11-21,Rapido,-1342.61,Debit,Travel
+2024-11-21,Broadband Bill,-1330.08,Debit,Bills
+2024-11-22,Airtel Postpaid,-687.43,Debit,Bills
+2024-11-22,BookMyShow,-695.33,Debit,Entertainment
+2024-11-22,Electricity Board,-2954.3,Debit,Bills
+2024-11-23,Ajio,-4992.02,Debit,Shopping
+2024-11-23,Airtel Postpaid,-2080.36,Debit,Bills
+2024-11-23,BookMyShow,-646.73,Debit,Entertainment
+2024-11-23,Gym Membership,-2185.68,Debit,Health
+2024-11-23,Broadband Bill,-1316.74,Debit,Bills
+2024-11-23,McDonalds,-136.97,Debit,Food
+2024-11-25,Petrol Pump,-1639.15,Debit,Travel
+2024-11-25,Interest Credit,39529.2,Credit,Income
+2024-11-25,Swiggy,-298.63,Debit,Food
+2024-11-25,Freelance Payment,36276.37,Credit,Income
+2024-11-25,McDonalds,-559.79,Debit,Food
+2024-11-26,Rapido,-1603.41,Debit,Travel
+2024-11-27,Practo,-3578.84,Debit,Health
+2024-11-27,Gift,-1036.41,Debit,Other
+2024-11-27,Ajio,-5842.79,Debit,Shopping
+2024-11-29,Ola,-604.96,Debit,Travel
+2024-11-29,House Rent,-12375.7,Debit,Rent
+2024-11-29,Starbucks,-1029.36,Debit,Food
+2024-11-29,Myntra,-4423.49,Debit,Shopping
+2024-11-30,Dominos,-1146.02,Debit,Food
+2024-11-30,Ola,-1568.32,Debit,Travel
+2024-11-30,Spotify,-569.18,Debit,Entertainment
+2024-12-01,Gift,-347.45,Debit,Other
+2024-12-01,Dominos,-1003.97,Debit,Food
+2024-12-01,Gift,-1112.41,Debit,Other
+2024-12-01,Bookstore,-1113.28,Debit,Education
+2024-12-01,Udemy,-359.08,Debit,Education
+2024-12-01,Freelance Payment,24531.74,Credit,Income
+2024-12-02,Amazon,-2242.65,Debit,Shopping
+2024-12-02,Bookstore,-1257.23,Debit,Education
+2024-12-02,Interest Credit,28304.43,Credit,Income
+2024-12-02,BigBasket,-463.98,Debit,Food
+2024-12-02,Salary Credit,40395.2,Credit,Income
+2024-12-03,Freelance Payment,41549.94,Credit,Income
+2024-12-03,Starbucks,-203.57,Debit,Food
+2024-12-03,BigBasket,-553.03,Debit,Food
+2024-12-03,House Rent,-10282.49,Debit,Rent
+2024-12-04,Zomato,-627.93,Debit,Food
+2024-12-04,Ajio,-5149.66,Debit,Shopping
+2024-12-05,Swiggy,-586.59,Debit,Food
+2024-12-05,Electricity Board,-1355.33,Debit,Bills
+2024-12-05,Swiggy,-445.79,Debit,Food
+2024-12-06,Airtel Postpaid,-624.69,Debit,Bills
+2024-12-07,Uber,-1799.17,Debit,Travel
+2024-12-07,Rapido,-1134.96,Debit,Travel
+2024-12-07,Netflix,-567.98,Debit,Entertainment
+2024-12-07,1mg,-2897.06,Debit,Health
+2024-12-07,Myntra,-3751.25,Debit,Shopping
+2024-12-08,Airtel Postpaid,-1512.34,Debit,Bills
+2024-12-08,Rapido,-1009.29,Debit,Travel
+2024-12-08,Interest Credit,30170.89,Credit,Income
+2024-12-09,Jio Recharge,-1077.37,Debit,Bills
+2024-12-09,IRCTC,-344.96,Debit,Travel
+2024-12-09,Myntra,-4463.83,Debit,Shopping
+2024-12-10,Gift,-1170.45,Debit,Other
+2024-12-10,Broadband Bill,-557.22,Debit,Bills
+2024-12-10,McDonalds,-663.44,Debit,Food
+2024-12-10,Ola,-2151.2,Debit,Travel
+2024-12-11,Practo,-954.88,Debit,Health
+2024-12-11,IRCTC,-2641.62,Debit,Travel
+2024-12-12,Tuition Fees,-3871.43,Debit,Education
+2024-12-12,1mg,-4246.06,Debit,Health
+2024-12-12,Netflix,-676.48,Debit,Entertainment
+2024-12-13,Flipkart,-3618.59,Debit,Shopping
+2024-12-13,Flipkart,-2138.54,Debit,Shopping
+2024-12-13,Flipkart,-3398.25,Debit,Shopping
+2024-12-13,Apollo Pharmacy,-3568.89,Debit,Health
+2024-12-14,Dominos,-342.94,Debit,Food
+2024-12-14,Ola,-2022.29,Debit,Travel
+2024-12-15,Reliance Digital,-3560.68,Debit,Shopping
+2024-12-15,Ajio,-1998.37,Debit,Shopping
+2024-12-15,Hotstar,-108.4,Debit,Entertainment
+2024-12-17,Spotify,-616.39,Debit,Entertainment
+2024-12-17,Dominos,-664.19,Debit,Food
+2024-12-17,Tuition Fees,-3497.6,Debit,Education
+2024-12-18,Swiggy,-920.83,Debit,Food
+2024-12-18,Rapido,-1198.97,Debit,Travel
+2024-12-18,Practo,-4541.8,Debit,Health
+2024-12-20,Dominos,-884.68,Debit,Food
+2024-12-20,Salary Credit,23741.42,Credit,Income
+2024-12-20,Zomato,-772.6,Debit,Food
+2024-12-20,Uber,-1520.4,Debit,Travel
+2024-12-20,Hotstar,-338.44,Debit,Entertainment
+2024-12-20,Airtel Postpaid,-1443.32,Debit,Bills
+2024-12-20,Salary Credit,33114.96,Credit,Income
+2024-12-21,Miscellaneous,-1759.47,Debit,Other
+2024-12-22,1mg,-2611.91,Debit,Health
+2024-12-22,Miscellaneous,-1369.8,Debit,Other
+2024-12-22,Bookstore,-2252.3,Debit,Education
+2024-12-22,Gift,-101.08,Debit,Other
+2024-12-22,Myntra,-2327.33,Debit,Shopping
+2024-12-23,McDonalds,-433.44,Debit,Food
+2024-12-23,Reliance Digital,-2343.9,Debit,Shopping
+2024-12-23,Ajio,-2515.32,Debit,Shopping
+2024-12-23,BookMyShow,-785.02,Debit,Entertainment
+2024-12-24,ATM Withdrawal,-283.67,Debit,Other
+2024-12-25,Gift,-1961.65,Debit,Other
+2024-12-25,Airtel Postpaid,-1534.15,Debit,Bills
+2024-12-25,Uber,-2373.27,Debit,Travel
+2024-12-25,Freelance Payment,47547.17,Credit,Income
+2024-12-26,Starbucks,-920.52,Debit,Food
+2024-12-26,Reliance Digital,-489.18,Debit,Shopping
+2024-12-26,Spotify,-603.86,Debit,Entertainment
+2024-12-26,Amazon,-5251.02,Debit,Shopping
+2024-12-26,Flipkart,-5723.43,Debit,Shopping
+2024-12-26,Amazon,-3922.03,Debit,Shopping
+2024-12-27,Indigo Airlines,-654.98,Debit,Travel
+2024-12-27,Zomato,-647.98,Debit,Food
+2024-12-27,Myntra,-3618.53,Debit,Shopping
+2024-12-28,Zomato,-845.3,Debit,Food
+2024-12-28,Ola,-1121.02,Debit,Travel
+2024-12-29,Netflix,-647.04,Debit,Entertainment
+2024-12-30,Salary Credit,26838.05,Credit,Income
+2024-12-30,Uber,-1957.49,Debit,Travel
+2024-12-30,Gym Membership,-3196.95,Debit,Health
+2024-12-31,BigBasket,-113.99,Debit,Food
+2025-01-01,McDonalds,-215.02,Debit,Food
+2025-01-01,Zomato,-938.7,Debit,Food
+2025-01-01,Broadband Bill,-1970.05,Debit,Bills
+2025-01-02,BigBasket,-1190.24,Debit,Food
+2025-01-02,BigBasket,-1041.31,Debit,Food
+2025-01-02,Hotstar,-571.49,Debit,Entertainment
+2025-01-02,Salary Credit,36443.52,Credit,Income
+2025-01-02,Indigo Airlines,-1446.53,Debit,Travel
+2025-01-03,House Rent,-11399.16,Debit,Rent
+2025-01-03,McDonalds,-1037.49,Debit,Food
+2025-01-04,Freelance Payment,24033.05,Credit,Income
+2025-01-04,Rapido,-461.97,Debit,Travel
+2025-01-04,ATM Withdrawal,-727.46,Debit,Other
+2025-01-04,Reliance Digital,-2266.91,Debit,Shopping
+2025-01-04,Miscellaneous,-1280.78,Debit,Other
+2025-01-04,Flipkart,-3930.34,Debit,Shopping
+2025-01-05,IRCTC,-1074.66,Debit,Travel
+2025-01-05,BigBasket,-494.51,Debit,Food
+2025-01-05,Gym Membership,-2335.4,Debit,Health
+2025-01-05,Myntra,-5373.33,Debit,Shopping
+2025-01-06,Gym Membership,-1115.11,Debit,Health
+2025-01-06,Indigo Airlines,-2824.54,Debit,Travel
+2025-01-07,BigBasket,-1019.58,Debit,Food
+2025-01-07,Interest Credit,33067.5,Credit,Income
+2025-01-08,Electricity Board,-1205.85,Debit,Bills
+2025-01-08,Broadband Bill,-955.3,Debit,Bills
+2025-01-11,House Rent,-9435.67,Debit,Rent
+2025-01-11,Interest Credit,45375.49,Credit,Income
+2025-01-11,House Rent,-9839.01,Debit,Rent
+2025-01-11,Bookstore,-344.8,Debit,Education
+2025-01-11,Rapido,-479.98,Debit,Travel
+2025-01-11,Gym Membership,-4670.77,Debit,Health
+2025-01-12,Coursera,-1660.61,Debit,Education
+2025-01-12,ATM Withdrawal,-974.31,Debit,Other
+2025-01-12,ATM Withdrawal,-628.16,Debit,Other
+2025-01-12,Interest Credit,45965.21,Credit,Income
+2025-01-12,Spotify,-543.02,Debit,Entertainment
+2025-01-13,Petrol Pump,-577.53,Debit,Travel
+2025-01-13,Electricity Board,-2607.83,Debit,Bills
+2025-01-13,Miscellaneous,-1470.56,Debit,Other
+2025-01-13,Dominos,-829.31,Debit,Food
+2025-01-14,Starbucks,-356.55,Debit,Food
+2025-01-15,Reliance Digital,-4465.94,Debit,Shopping
+2025-01-15,Netflix,-507.63,Debit,Entertainment
+2025-01-15,Petrol Pump,-1168.95,Debit,Travel
+2025-01-16,Practo (Large),-39737.44,Debit,Health
+2025-01-16,Rapido,-2428.89,Debit,Travel
+2025-01-16,Salary Credit,43894.15,Credit,Income
+2025-01-16,Miscellaneous,-87.69,Debit,Other
+2025-01-16,BigBasket,-160.1,Debit,Food
+2025-01-17,Gift,-1963.23,Debit,Other
+2025-01-17,Indigo Airlines,-1765.79,Debit,Travel
+2025-01-18,Swiggy,-847.61,Debit,Food
+2025-01-19,Ajio,-1479.86,Debit,Shopping
+2025-01-19,Myntra,-1174.1,Debit,Shopping
+2025-01-19,Zomato,-223.53,Debit,Food
+2025-01-19,IRCTC,-136.05,Debit,Travel
+2025-01-19,Miscellaneous,-1526.75,Debit,Other
+2025-01-20,Salary Credit,21567.74,Credit,Income
+2025-01-20,Hotstar,-377.15,Debit,Entertainment
+2025-01-20,ATM Withdrawal,-470.57,Debit,Other
+2025-01-21,IRCTC,-2892.01,Debit,Travel
+2025-01-21,Jio Recharge,-2140.94,Debit,Bills
+2025-01-21,ATM Withdrawal,-1084.94,Debit,Other
+2025-01-21,Indigo Airlines,-1849.0,Debit,Travel
+2025-01-21,Miscellaneous,-1004.38,Debit,Other
+2025-01-22,BookMyShow,-671.32,Debit,Entertainment
+2025-01-23,Amazon,-5318.05,Debit,Shopping
+2025-01-23,Interest Credit,49045.8,Credit,Income
+2025-01-23,Ajio,-5921.4,Debit,Shopping
+2025-01-23,Miscellaneous,-679.77,Debit,Other
+2025-01-24,Dominos,-756.75,Debit,Food
+2025-01-24,BigBasket,-426.7,Debit,Food
+2025-01-24,Jio Recharge,-1908.93,Debit,Bills
+2025-01-24,Swiggy,-577.42,Debit,Food
+2025-01-24,Interest Credit,33730.99,Credit,Income
+2025-01-25,Ajio,-4112.87,Debit,Shopping
+2025-01-25,Netflix,-244.73,Debit,Entertainment
+2025-01-25,Swiggy,-881.97,Debit,Food
+2025-01-25,Electricity Board,-816.67,Debit,Bills
+2025-01-25,Swiggy,-1031.67,Debit,Food
+2025-01-25,ATM Withdrawal,-752.46,Debit,Other
+2025-01-26,McDonalds,-604.89,Debit,Food
+2025-01-26,BigBasket,-779.97,Debit,Food
+2025-01-26,IRCTC,-2602.62,Debit,Travel
+2025-01-27,Miscellaneous,-1290.34,Debit,Other
+2025-01-27,Broadband Bill,-2323.5,Debit,Bills
+2025-01-27,Miscellaneous,-816.73,Debit,Other
+2025-01-27,Miscellaneous,-1487.34,Debit,Other
+2025-01-28,Dominos,-452.07,Debit,Food
+2025-01-28,Zomato,-773.48,Debit,Food
+2025-01-28,Flipkart,-5807.59,Debit,Shopping
+2025-01-29,BigBasket,-762.81,Debit,Food
+2025-01-29,Amazon,-4151.43,Debit,Shopping
+2025-01-30,Indigo Airlines,-2314.79,Debit,Travel
+2025-01-30,1mg,-4500.98,Debit,Health
+2025-01-30,Hotstar,-662.91,Debit,Entertainment
+2025-01-30,Starbucks,-761.23,Debit,Food
+2025-01-31,BigBasket,-1134.15,Debit,Food
+2025-01-31,Rapido,-259.25,Debit,Travel
+2025-01-31,Zomato,-347.08,Debit,Food
+2025-02-01,Electricity Board,-333.61,Debit,Bills
+2025-02-01,Amazon,-300.77,Debit,Shopping
+2025-02-01,Dominos,-563.87,Debit,Food
+2025-02-01,Flipkart,-3683.3,Debit,Shopping
+2025-02-02,Salary Credit,37335.25,Credit,Income
+2025-02-03,Miscellaneous,-938.53,Debit,Other
+2025-02-03,House Rent,-11595.58,Debit,Rent
+2025-02-03,Zomato,-962.86,Debit,Food
+2025-02-04,Ajio,-5426.89,Debit,Shopping
+2025-02-04,Bookstore,-871.5,Debit,Education
+2025-02-04,Indigo Airlines,-864.2,Debit,Travel
+2025-02-04,ATM Withdrawal,-1475.12,Debit,Other
+2025-02-04,House Rent,-9015.28,Debit,Rent
+2025-02-05,Starbucks,-1021.97,Debit,Food
+2025-02-05,Amazon,-3429.19,Debit,Shopping
+2025-02-05,House Rent,-9515.48,Debit,Rent
+2025-02-06,Practo,-4133.1,Debit,Health
+2025-02-06,Spotify,-659.65,Debit,Entertainment
+2025-02-07,Miscellaneous,-1986.85,Debit,Other
+2025-02-07,Airtel Postpaid,-840.63,Debit,Bills
+2025-02-07,Ajio,-5153.26,Debit,Shopping
+2025-02-07,Broadband Bill,-1998.77,Debit,Bills
+2025-02-07,McDonalds,-368.54,Debit,Food
+2025-02-08,IRCTC (Large),-34059.69,Debit,Travel
+2025-02-08,BigBasket,-449.92,Debit,Food
+2025-02-08,Spotify,-233.02,Debit,Entertainment
+2025-02-08,Petrol Pump,-613.19,Debit,Travel
+2025-02-08,Jio Recharge,-918.74,Debit,Bills
+2025-02-08,BigBasket,-150.74,Debit,Food
+2025-02-10,Zomato,-797.41,Debit,Food
+2025-02-10,Rapido,-728.37,Debit,Travel
+2025-02-10,BigBasket,-703.61,Debit,Food
+2025-02-10,Uber,-1001.46,Debit,Travel
+2025-02-10,House Rent,-11827.43,Debit,Rent
+2025-02-11,Indigo Airlines,-382.11,Debit,Travel
+2025-02-11,House Rent,-9190.57,Debit,Rent
+2025-02-11,Starbucks,-1155.53,Debit,Food
+2025-02-11,IRCTC (Large),-25649.23,Debit,Travel
+2025-02-11,Petrol Pump,-76.64,Debit,Travel
+2025-02-12,House Rent,-9058.77,Debit,Rent
+2025-02-12,House Rent,-10588.73,Debit,Rent
+2025-02-12,Miscellaneous,-1105.74,Debit,Other
+2025-02-12,Jio Recharge,-388.09,Debit,Bills
+2025-02-13,BigBasket,-454.3,Debit,Food
+2025-02-14,Dominos,-983.87,Debit,Food
+2025-02-15,House Rent,-10704.37,Debit,Rent
+2025-02-15,Gym Membership,-3575.04,Debit,Health
+2025-02-15,McDonalds,-321.9,Debit,Food
+2025-02-15,1mg,-4017.52,Debit,Health
+2025-02-16,Indigo Airlines,-2335.17,Debit,Travel
+2025-02-16,IRCTC,-2608.52,Debit,Travel
+2025-02-17,Gift,-1171.94,Debit,Other
+2025-02-17,IRCTC,-185.87,Debit,Travel
+2025-02-17,Salary Credit,45565.81,Credit,Income
+2025-02-17,Petrol Pump,-2107.54,Debit,Travel
+2025-02-18,Coursera,-2844.57,Debit,Education
+2025-02-19,Miscellaneous,-1860.22,Debit,Other
+2025-02-19,Rapido,-204.4,Debit,Travel
+2025-02-19,Miscellaneous,-1621.69,Debit,Other
+2025-02-20,Tuition Fees,-2225.1,Debit,Education
+2025-02-20,Reliance Digital,-3072.24,Debit,Shopping
+2025-02-20,Freelance Payment,38015.51,Credit,Income
+2025-02-20,Salary Credit,38418.01,Credit,Income
+2025-02-21,ATM Withdrawal,-53.05,Debit,Other
+2025-02-21,Practo,-427.81,Debit,Health
+2025-02-22,Reliance Digital,-5791.08,Debit,Shopping
+2025-02-22,Indigo Airlines,-158.18,Debit,Travel
+2025-02-23,Airtel Postpaid,-2095.94,Debit,Bills
+2025-02-23,Starbucks,-905.9,Debit,Food
+2025-02-24,Apollo Pharmacy,-1141.54,Debit,Health
+2025-02-24,Coursera,-3885.68,Debit,Education
+2025-02-24,Starbucks,-1012.55,Debit,Food
+2025-02-24,Coursera,-3952.92,Debit,Education
+2025-02-24,McDonalds,-911.34,Debit,Food
+2025-02-24,Interest Credit,33014.52,Credit,Income
+2025-02-25,McDonalds,-596.87,Debit,Food
+2025-02-25,Jio Recharge,-2818.57,Debit,Bills
+2025-02-25,Hotstar,-693.46,Debit,Entertainment
+2025-02-25,Interest Credit,27626.74,Credit,Income
+2025-02-26,Electricity Board,-1466.83,Debit,Bills
+2025-02-26,Electricity Board,-510.49,Debit,Bills
+2025-02-27,Salary Credit,37918.34,Credit,Income
+2025-02-28,Swiggy,-609.62,Debit,Food
+2025-02-28,Udemy,-719.82,Debit,Education
+2025-03-01,Starbucks,-282.07,Debit,Food
+2025-03-01,Amazon,-3957.89,Debit,Shopping
+2025-03-01,Coursera,-1306.21,Debit,Education
+2025-03-01,Myntra,-4729.74,Debit,Shopping
+2025-03-02,Tuition Fees,-2379.67,Debit,Education
+2025-03-02,Spotify,-230.68,Debit,Entertainment
+2025-03-02,Starbucks,-946.24,Debit,Food
+2025-03-02,Starbucks,-683.29,Debit,Food
+2025-03-02,Salary Credit,41406.8,Credit,Income
+2025-03-03,House Rent,-11579.47,Debit,Rent
+2025-03-03,Indigo Airlines,-288.52,Debit,Travel
+2025-03-03,Reliance Digital,-1026.69,Debit,Shopping
+2025-03-03,Tuition Fees,-513.64,Debit,Education
+2025-03-05,Jio Recharge,-1118.83,Debit,Bills
+2025-03-05,Ajio,-4148.3,Debit,Shopping
+2025-03-05,Bookstore,-895.14,Debit,Education
+2025-03-07,Myntra,-532.3,Debit,Shopping
+2025-03-07,Flipkart,-3732.23,Debit,Shopping
+2025-03-07,Dominos,-741.35,Debit,Food
+2025-03-07,Miscellaneous,-616.48,Debit,Other
+2025-03-08,Rapido,-1649.6,Debit,Travel
+2025-03-09,Airtel Postpaid,-221.46,Debit,Bills
+2025-03-09,Starbucks,-233.52,Debit,Food
+2025-03-09,Electricity Board,-2510.8,Debit,Bills
+2025-03-09,House Rent,-10617.53,Debit,Rent
+2025-03-09,Ajio,-2475.19,Debit,Shopping
+2025-03-10,Hotstar,-773.48,Debit,Entertainment
+2025-03-10,Amazon,-3423.37,Debit,Shopping
+2025-03-10,Flipkart,-3535.89,Debit,Shopping
+2025-03-10,Practo,-3936.55,Debit,Health
+2025-03-10,Tuition Fees,-2890.13,Debit,Education
+2025-03-10,Gift,-594.59,Debit,Other
+2025-03-11,Myntra,-2563.83,Debit,Shopping
+2025-03-11,Udemy,-2327.5,Debit,Education
+2025-03-11,Amazon,-469.11,Debit,Shopping
+2025-03-12,Flipkart,-1247.82,Debit,Shopping
+2025-03-12,McDonalds,-174.09,Debit,Food
+2025-03-13,Indigo Airlines,-1488.62,Debit,Travel
+2025-03-13,Zomato,-1081.09,Debit,Food
+2025-03-14,McDonalds,-480.23,Debit,Food
+2025-03-15,Electricity Board,-589.89,Debit,Bills
+2025-03-15,Starbucks,-212.76,Debit,Food
+2025-03-15,IRCTC,-1063.5,Debit,Travel
+2025-03-15,IRCTC,-881.47,Debit,Travel
+2025-03-15,Rapido,-2242.42,Debit,Travel
+2025-03-15,Reliance Digital,-3082.97,Debit,Shopping
+2025-03-17,House Rent,-12442.92,Debit,Rent
+2025-03-17,Jio Recharge,-428.83,Debit,Bills
+2025-03-17,Uber,-1520.18,Debit,Travel
+2025-03-17,McDonalds,-592.56,Debit,Food
+2025-03-17,ATM Withdrawal,-1583.37,Debit,Other
+2025-03-17,Apollo Pharmacy,-3507.54,Debit,Health
+2025-03-17,ATM Withdrawal,-248.48,Debit,Other
+2025-03-18,House Rent,-9575.26,Debit,Rent
+2025-03-18,Dominos,-1029.26,Debit,Food
+2025-03-19,Starbucks,-398.26,Debit,Food
+2025-03-20,Ola,-1918.76,Debit,Travel
+2025-03-20,BigBasket,-1150.76,Debit,Food
+2025-03-20,Starbucks,-1004.12,Debit,Food
+2025-03-20,Indigo Airlines,-389.05,Debit,Travel
+2025-03-21,1mg,-2205.13,Debit,Health
+2025-03-21,ATM Withdrawal,-1011.89,Debit,Other
+2025-03-21,Airtel Postpaid,-2233.14,Debit,Bills
+2025-03-21,BigBasket,-553.88,Debit,Food
+2025-03-21,Dominos,-555.92,Debit,Food
+2025-03-23,Miscellaneous,-1127.78,Debit,Other
+2025-03-23,Zomato,-893.89,Debit,Food
+2025-03-25,Zomato,-345.98,Debit,Food
+2025-03-25,Tuition Fees,-3932.66,Debit,Education
+2025-03-25,Netflix,-148.69,Debit,Entertainment
+2025-03-25,Freelance Payment,44539.01,Credit,Income
+2025-03-25,Uber,-795.8,Debit,Travel
+2025-03-25,Swiggy,-657.96,Debit,Food
+2025-03-26,Reliance Digital,-711.53,Debit,Shopping
+2025-03-27,ATM Withdrawal,-1395.51,Debit,Other
+2025-03-27,House Rent,-12600.09,Debit,Rent
+2025-03-27,ATM Withdrawal,-1856.45,Debit,Other
+2025-03-27,Jio Recharge,-1110.92,Debit,Bills
+2025-03-28,Freelance Payment,21059.34,Credit,Income
+2025-03-28,Udemy,-2093.68,Debit,Education
+2025-03-29,Tuition Fees,-2760.44,Debit,Education
+2025-03-29,Amazon,-3368.89,Debit,Shopping
+2025-03-29,BigBasket,-1121.53,Debit,Food
+2025-03-30,Petrol Pump,-1452.45,Debit,Travel
+2025-03-30,Petrol Pump,-1222.09,Debit,Travel
+2025-03-30,House Rent,-10993.02,Debit,Rent
+2025-03-31,Apollo Pharmacy (Large),-20467.57,Debit,Health
+2025-03-31,BigBasket,-111.1,Debit,Food
+2025-03-31,Myntra,-3914.61,Debit,Shopping
+2025-04-01,Ola,-761.54,Debit,Travel
+2025-04-01,1mg,-4942.12,Debit,Health
+2025-04-01,Uber,-298.96,Debit,Travel
+2025-04-01,Practo,-824.71,Debit,Health
+2025-04-01,BigBasket,-813.98,Debit,Food
+2025-04-01,Indigo Airlines,-563.87,Debit,Travel
+2025-04-02,Salary Credit,35245.06,Credit,Income
+2025-04-02,ATM Withdrawal,-127.26,Debit,Other
+2025-04-02,Broadband Bill,-1576.46,Debit,Bills
+2025-04-03,House Rent,-11362.12,Debit,Rent
+2025-04-03,Flipkart,-2816.72,Debit,Shopping
+2025-04-03,Gym Membership,-579.19,Debit,Health
+2025-04-03,BigBasket,-636.17,Debit,Food
+2025-04-03,Electricity Board,-1448.33,Debit,Bills
+2025-04-03,Dominos,-780.08,Debit,Food
+2025-04-04,ATM Withdrawal,-240.15,Debit,Other
+2025-04-04,Airtel Postpaid,-1265.75,Debit,Bills
+2025-04-04,Hotstar,-790.63,Debit,Entertainment
+2025-04-04,Netflix,-124.19,Debit,Entertainment
+2025-04-04,Interest Credit,44878.6,Credit,Income
+2025-04-05,Gym Membership,-4169.38,Debit,Health
+2025-04-05,Freelance Payment,34896.84,Credit,Income
+2025-04-05,Spotify,-539.89,Debit,Entertainment
+2025-04-05,Starbucks,-526.41,Debit,Food
+2025-04-06,Starbucks,-224.24,Debit,Food
+2025-04-06,Salary Credit,34225.21,Credit,Income
+2025-04-06,Ola,-2748.46,Debit,Travel
+2025-04-06,Flipkart,-567.59,Debit,Shopping
+2025-04-06,Starbucks,-619.74,Debit,Food
+2025-04-07,Amazon,-5233.79,Debit,Shopping
+2025-04-07,McDonalds,-174.62,Debit,Food
+2025-04-08,Reliance Digital,-3589.96,Debit,Shopping
+2025-04-08,Ajio,-3626.84,Debit,Shopping
+2025-04-08,Reliance Digital,-364.72,Debit,Shopping
+2025-04-08,Jio Recharge,-1642.49,Debit,Bills
+2025-04-08,Indigo Airlines,-863.37,Debit,Travel
+2025-04-08,Rapido,-293.72,Debit,Travel
+2025-04-08,Interest Credit,49505.64,Credit,Income
+2025-04-08,Petrol Pump,-2450.7,Debit,Travel
+2025-04-09,ATM Withdrawal,-503.66,Debit,Other
+2025-04-09,BigBasket,-470.59,Debit,Food
+2025-04-10,Jio Recharge,-1411.88,Debit,Bills
+2025-04-11,BigBasket,-778.27,Debit,Food
+2025-04-11,Ola,-1692.56,Debit,Travel
+2025-04-11,Starbucks,-1180.62,Debit,Food
+2025-04-12,Hotstar,-483.5,Debit,Entertainment
+2025-04-12,1mg,-180.97,Debit,Health
+2025-04-13,Uber (Large),-18426.96,Debit,Travel
+2025-04-13,Amazon,-3063.53,Debit,Shopping
+2025-04-13,Amazon,-1623.61,Debit,Shopping
+2025-04-14,Swiggy,-910.56,Debit,Food
+2025-04-14,McDonalds,-960.23,Debit,Food
+2025-04-14,Zomato,-432.11,Debit,Food
+2025-04-14,Tuition Fees,-3746.88,Debit,Education
+2025-04-15,Amazon,-4999.85,Debit,Shopping
+2025-04-15,Ajio,-4748.28,Debit,Shopping
+2025-04-15,Jio Recharge,-2684.2,Debit,Bills
+2025-04-15,Airtel Postpaid,-1924.42,Debit,Bills
+2025-04-15,Ajio,-3370.6,Debit,Shopping
+2025-04-16,Reliance Digital,-1702.6,Debit,Shopping
+2025-04-16,Amazon,-3761.65,Debit,Shopping
+2025-04-16,Flipkart,-2933.1,Debit,Shopping
+2025-04-16,Salary Credit,33922.85,Credit,Income
+2025-04-16,Dominos,-1199.5,Debit,Food
+2025-04-17,Flipkart,-3763.06,Debit,Shopping
+2025-04-17,BigBasket,-473.2,Debit,Food
+2025-04-17,Myntra,-2802.14,Debit,Shopping
+2025-04-17,Myntra,-4968.88,Debit,Shopping
+2025-04-18,Myntra,-2685.91,Debit,Shopping
+2025-04-19,Salary Credit,36003.83,Credit,Income
+2025-04-19,Bookstore,-573.97,Debit,Education
+2025-04-19,Freelance Payment,23662.64,Credit,Income
+2025-04-19,Myntra,-425.55,Debit,Shopping
+2025-04-20,Swiggy,-1024.96,Debit,Food
+2025-04-20,Practo,-237.04,Debit,Health
+2025-04-20,Ola,-2613.27,Debit,Travel
+2025-04-21,Freelance Payment,34280.54,Credit,Income
+2025-04-22,Miscellaneous,-126.04,Debit,Other
+2025-04-22,Netflix,-449.94,Debit,Entertainment
+2025-04-23,Jio Recharge,-1447.52,Debit,Bills
+2025-04-24,Starbucks,-1013.68,Debit,Food
+2025-04-25,Netflix,-273.75,Debit,Entertainment
+2025-04-25,Broadband Bill,-712.02,Debit,Bills
+2025-04-25,Hotstar,-495.58,Debit,Entertainment
+2025-04-25,Uber,-566.9,Debit,Travel
+2025-04-27,Flipkart,-826.02,Debit,Shopping
+2025-04-27,Myntra,-3732.07,Debit,Shopping
+2025-04-28,BigBasket,-799.8,Debit,Food
+2025-04-29,Reliance Digital,-4390.31,Debit,Shopping
+2025-04-30,Bookstore,-2608.28,Debit,Education
+2025-04-30,Miscellaneous,-1868.82,Debit,Other
+2025-04-30,Electricity Board,-2181.62,Debit,Bills
+2025-05-01,Petrol Pump,-1463.87,Debit,Travel
+2025-05-01,McDonalds,-1021.61,Debit,Food
+2025-05-01,Swiggy,-188.26,Debit,Food
+2025-05-01,Ajio,-5431.83,Debit,Shopping
+2025-05-02,Myntra,-2480.03,Debit,Shopping
+2025-05-02,McDonalds,-278.22,Debit,Food
+2025-05-02,Salary Credit,37879.38,Credit,Income
+2025-05-03,Ajio (Large),-18371.13,Debit,Shopping
+2025-05-03,Myntra,-1138.25,Debit,Shopping
+2025-05-03,Starbucks,-943.91,Debit,Food
+2025-05-03,BookMyShow,-415.99,Debit,Entertainment
+2025-05-03,House Rent,-11621.17,Debit,Rent
+2025-05-03,Uber,-2882.4,Debit,Travel
+2025-05-04,McDonalds,-978.45,Debit,Food
+2025-05-04,BookMyShow,-514.24,Debit,Entertainment
+2025-05-04,Indigo Airlines,-162.05,Debit,Travel
+2025-05-06,Myntra,-351.61,Debit,Shopping
+2025-05-06,Starbucks,-910.9,Debit,Food
+2025-05-06,Spotify,-104.5,Debit,Entertainment
+2025-05-06,Bookstore,-2344.3,Debit,Education
+2025-05-06,McDonalds,-417.77,Debit,Food
+2025-05-06,Practo,-1726.75,Debit,Health
+2025-05-07,Dominos,-662.4,Debit,Food
+2025-05-07,Practo,-3173.52,Debit,Health
+2025-05-07,Uber,-308.55,Debit,Travel
+2025-05-07,Airtel Postpaid,-200.03,Debit,Bills
+2025-05-07,Electricity Board,-2731.64,Debit,Bills
+2025-05-08,Reliance Digital,-3057.4,Debit,Shopping
+2025-05-08,House Rent,-11836.05,Debit,Rent
+2025-05-08,Miscellaneous,-558.74,Debit,Other
+2025-05-08,Electricity Board,-1820.29,Debit,Bills
+2025-05-09,Salary Credit,28222.15,Credit,Income
+2025-05-09,ATM Withdrawal,-919.62,Debit,Other
+2025-05-09,Hotstar,-336.95,Debit,Entertainment
+2025-05-09,Amazon,-3709.88,Debit,Shopping
+2025-05-10,Freelance Payment,47739.3,Credit,Income
+2025-05-10,Bookstore,-804.57,Debit,Education
+2025-05-10,Jio Recharge,-922.24,Debit,Bills
+2025-05-11,BigBasket,-1194.35,Debit,Food
+2025-05-11,Spotify,-532.37,Debit,Entertainment
+2025-05-11,Petrol Pump,-2737.24,Debit,Travel
+2025-05-12,Rapido,-1914.45,Debit,Travel
+2025-05-12,Gym Membership,-3758.14,Debit,Health
+2025-05-12,Petrol Pump,-160.83,Debit,Travel
+2025-05-12,Miscellaneous,-1354.53,Debit,Other
+2025-05-12,Zomato,-717.63,Debit,Food
+2025-05-13,Dominos,-354.18,Debit,Food
+2025-05-13,Airtel Postpaid,-2969.28,Debit,Bills
+2025-05-14,Petrol Pump,-1068.32,Debit,Travel
+2025-05-14,McDonalds,-545.28,Debit,Food
+2025-05-15,Amazon,-2821.1,Debit,Shopping
+2025-05-15,IRCTC,-2243.6,Debit,Travel
+2025-05-15,House Rent,-11349.81,Debit,Rent
+2025-05-15,Swiggy,-1118.13,Debit,Food
+2025-05-16,Tuition Fees,-2055.04,Debit,Education
+2025-05-17,House Rent,-10283.12,Debit,Rent
+2025-05-17,Ajio,-1246.4,Debit,Shopping
+2025-05-17,Netflix,-799.8,Debit,Entertainment
+2025-05-17,Electricity Board,-2809.64,Debit,Bills
+2025-05-17,Myntra,-2288.28,Debit,Shopping
+2025-05-18,Indigo Airlines,-1873.25,Debit,Travel
+2025-05-18,Swiggy,-895.46,Debit,Food
+2025-05-18,Coursera,-2384.17,Debit,Education
+2025-05-19,Zomato,-599.69,Debit,Food
+2025-05-20,Ajio,-5278.02,Debit,Shopping
+2025-05-20,Zomato,-957.54,Debit,Food
+2025-05-20,Swiggy,-479.88,Debit,Food
+2025-05-20,1mg,-3090.02,Debit,Health
+2025-05-21,Reliance Digital,-2657.23,Debit,Shopping
+2025-05-22,Jio Recharge,-1843.16,Debit,Bills
+2025-05-22,Swiggy,-712.39,Debit,Food
+2025-05-22,Myntra,-1184.87,Debit,Shopping
+2025-05-22,Myntra,-3124.08,Debit,Shopping
+2025-05-22,Ajio,-2161.91,Debit,Shopping
+2025-05-22,Interest Credit,20707.85,Credit,Income
+2025-05-23,Jio Recharge,-1999.21,Debit,Bills
+2025-05-23,Swiggy,-1031.86,Debit,Food
+2025-05-24,BookMyShow,-515.16,Debit,Entertainment
+2025-05-24,Practo,-1366.83,Debit,Health
+2025-05-24,Interest Credit,42597.39,Credit,Income
+2025-05-24,Dominos,-720.89,Debit,Food
+2025-05-24,Gift,-131.8,Debit,Other
+2025-05-24,Ajio,-5909.28,Debit,Shopping
+2025-05-25,1mg,-4232.87,Debit,Health
+2025-05-25,Dominos,-1100.4,Debit,Food
+2025-05-25,Ajio,-383.6,Debit,Shopping
+2025-05-25,Interest Credit,37348.95,Credit,Income
+2025-05-26,Myntra,-4977.65,Debit,Shopping
+2025-05-26,Reliance Digital,-4369.99,Debit,Shopping
+2025-05-26,House Rent,-11779.53,Debit,Rent
+2025-05-26,Starbucks,-1160.92,Debit,Food
+2025-05-26,House Rent,-12445.48,Debit,Rent
+2025-05-26,Hotstar,-704.04,Debit,Entertainment
+2025-05-26,Rapido,-1707.51,Debit,Travel
+2025-05-27,Gift,-1640.87,Debit,Other
+2025-05-27,Freelance Payment,20007.13,Credit,Income
+2025-05-27,Miscellaneous,-1102.13,Debit,Other
+2025-05-27,Hotstar,-607.99,Debit,Entertainment
+2025-05-28,Freelance Payment,24848.59,Credit,Income
+2025-05-28,Dominos,-1037.66,Debit,Food
+2025-05-28,Amazon,-5559.72,Debit,Shopping
+2025-05-28,Freelance Payment,31854.51,Credit,Income
+2025-05-29,Rapido,-660.87,Debit,Travel
+2025-05-29,McDonalds,-142.72,Debit,Food
+2025-05-29,Airtel Postpaid,-1265.45,Debit,Bills
+2025-05-29,Jio Recharge,-558.67,Debit,Bills
+2025-05-29,Ajio,-5850.41,Debit,Shopping
+2025-05-31,Ola,-1471.51,Debit,Travel
+2025-05-31,Udemy,-813.65,Debit,Education
+2025-05-31,House Rent,-9829.24,Debit,Rent
+2025-06-01,Swiggy,-886.42,Debit,Food
+2025-06-01,Interest Credit,35963.4,Credit,Income
+2025-06-02,Salary Credit,39465.68,Credit,Income
+2025-06-02,ATM Withdrawal,-468.52,Debit,Other
+2025-06-02,Interest Credit,49183.29,Credit,Income
+2025-06-03,House Rent,-11500.93,Debit,Rent
+2025-06-03,Starbucks,-794.44,Debit,Food
+2025-06-03,Airtel Postpaid,-378.19,Debit,Bills
+2025-06-04,Interest Credit,33031.83,Credit,Income
+2025-06-04,BookMyShow,-141.25,Debit,Entertainment
+2025-06-04,House Rent,-9269.54,Debit,Rent
+2025-06-04,Petrol Pump,-491.26,Debit,Travel
+2025-06-05,ATM Withdrawal,-445.13,Debit,Other
+2025-06-06,Bookstore,-1569.72,Debit,Education
+2025-06-06,Ola,-2259.04,Debit,Travel
+2025-06-07,Salary Credit,32282.36,Credit,Income
+2025-06-07,1mg,-4953.25,Debit,Health
+2025-06-07,Practo,-4560.54,Debit,Health
+2025-06-07,Interest Credit,37101.84,Credit,Income
+2025-06-07,Jio Recharge,-2610.99,Debit,Bills
+2025-06-08,Starbucks,-1087.83,Debit,Food
+2025-06-08,BigBasket,-1060.66,Debit,Food
+2025-06-08,Myntra,-2708.53,Debit,Shopping
+2025-06-08,Miscellaneous,-1653.84,Debit,Other
+2025-06-08,BookMyShow,-468.71,Debit,Entertainment
+2025-06-08,Udemy,-2801.6,Debit,Education
+2025-06-09,Airtel Postpaid,-1646.76,Debit,Bills
+2025-06-09,House Rent,-9943.17,Debit,Rent
+2025-06-10,Starbucks,-853.83,Debit,Food
+2025-06-10,McDonalds,-416.4,Debit,Food
+2025-06-10,BigBasket,-212.08,Debit,Food
+2025-06-10,Gift,-366.36,Debit,Other
+2025-06-10,Flipkart,-2471.08,Debit,Shopping
+2025-06-10,Electricity Board,-916.99,Debit,Bills
+2025-06-11,Spotify,-575.76,Debit,Entertainment
+2025-06-11,Uber,-1702.54,Debit,Travel
+2025-06-11,Airtel Postpaid,-816.51,Debit,Bills
+2025-06-12,Starbucks,-1130.27,Debit,Food
+2025-06-12,Spotify,-766.22,Debit,Entertainment
+2025-06-12,Petrol Pump,-404.49,Debit,Travel
+2025-06-12,Broadband Bill,-1727.07,Debit,Bills
+2025-06-12,Zomato,-400.99,Debit,Food
+2025-06-13,Miscellaneous,-1200.34,Debit,Other
+2025-06-13,Netflix,-796.83,Debit,Entertainment
+2025-06-13,Rapido,-612.53,Debit,Travel
+2025-06-13,Reliance Digital,-4517.48,Debit,Shopping
+2025-06-13,Ajio,-1363.45,Debit,Shopping
+2025-06-13,Rapido,-2493.34,Debit,Travel
+2025-06-14,Starbucks,-390.05,Debit,Food
+2025-06-15,Interest Credit,20828.5,Credit,Income
+2025-06-15,House Rent,-9754.16,Debit,Rent
+2025-06-15,Airtel Postpaid,-2142.31,Debit,Bills
+2025-06-15,Ola,-1791.34,Debit,Travel
+2025-06-15,Petrol Pump,-1671.11,Debit,Travel
+2025-06-15,Airtel Postpaid,-2776.83,Debit,Bills
+2025-06-15,Spotify,-651.32,Debit,Entertainment
+2025-06-15,ATM Withdrawal,-454.09,Debit,Other
+2025-06-16,Gym Membership,-3520.66,Debit,Health
+2025-06-16,Airtel Postpaid,-273.83,Debit,Bills
+2025-06-16,House Rent,-9045.67,Debit,Rent
+2025-06-16,Udemy,-2051.85,Debit,Education
+2025-06-17,IRCTC (Large),-30391.39,Debit,Travel
+2025-06-17,Netflix,-763.33,Debit,Entertainment
+2025-06-17,Apollo Pharmacy,-2700.19,Debit,Health
+2025-06-17,Zomato,-541.59,Debit,Food
+2025-06-17,McDonalds,-603.82,Debit,Food
+2025-06-18,Swiggy,-105.1,Debit,Food
+2025-06-18,Myntra,-1417.76,Debit,Shopping
+2025-06-18,Coursera,-3258.29,Debit,Education
+2025-06-18,Netflix,-661.92,Debit,Entertainment
+2025-06-19,ATM Withdrawal,-1204.18,Debit,Other
+2025-06-19,Gym Membership,-3052.45,Debit,Health
+2025-06-20,Airtel Postpaid,-2135.42,Debit,Bills
+2025-06-20,Apollo Pharmacy,-4254.29,Debit,Health
+2025-06-20,Reliance Digital,-845.57,Debit,Shopping
+2025-06-20,Rapido,-1562.21,Debit,Travel
+2025-06-21,Amazon,-5222.05,Debit,Shopping
+2025-06-21,Netflix,-778.91,Debit,Entertainment
+2025-06-21,Ola,-1562.33,Debit,Travel
+2025-06-22,Spotify,-522.15,Debit,Entertainment
+2025-06-22,BookMyShow,-261.9,Debit,Entertainment
+2025-06-23,Electricity Board,-1695.11,Debit,Bills
+2025-06-23,Udemy,-1574.22,Debit,Education
+2025-06-23,Dominos,-173.15,Debit,Food
+2025-06-24,Broadband Bill,-1198.68,Debit,Bills
+2025-06-25,1mg,-3069.0,Debit,Health
+2025-06-25,1mg,-3998.03,Debit,Health
+2025-06-27,Bookstore,-461.55,Debit,Education
+2025-06-27,Rapido,-1016.12,Debit,Travel
+2025-06-28,Swiggy,-167.67,Debit,Food
+2025-06-28,Dominos,-716.74,Debit,Food
+2025-06-28,Udemy,-3752.52,Debit,Education
+2025-06-29,Broadband Bill,-1738.36,Debit,Bills
+2025-06-29,Bookstore,-3744.51,Debit,Education
+2025-06-29,Salary Credit,44108.11,Credit,Income
+2025-06-29,BigBasket,-763.52,Debit,Food
+2025-06-29,Starbucks,-336.05,Debit,Food
+2025-06-29,Amazon,-5732.51,Debit,Shopping
+2025-06-30,ATM Withdrawal,-1941.26,Debit,Other
+2025-06-30,Practo,-4793.62,Debit,Health
+2025-06-30,Gift,-1465.15,Debit,Other
+2025-06-30,Zomato,-698.19,Debit,Food
